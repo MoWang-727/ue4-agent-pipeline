@@ -1,2 +1,29 @@
-# Assets
-*.pak\n*.uasset\n*.uexp\n*.fbx\n*.blend\nextracted/\noutput/\nmod/\n__pycache__/\n*.pyc\n.venv/\n.vscode/\n.idea/\n.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 提取输出
+extracted/
+output/
+*.pak.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.token
+*.secret
+.env
