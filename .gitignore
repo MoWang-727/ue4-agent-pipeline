@@ -1,0 +1,2 @@
+# Assets
+*.pak\n*.uasset\n*.uexp\n*.fbx\n*.blend\nextracted/\noutput/\nmod/\n__pycache__/\n*.pyc\n.venv/\n.vscode/\n.idea/\n.DS_Store
